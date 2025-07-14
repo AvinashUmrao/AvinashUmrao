@@ -61,9 +61,3 @@ Always eager to learn and grow, I'm actively exploring new tools, frameworks, an
 ## Thank you for Visiting!
 
 Feel free to explore my repositories and reach out to me for collaborations or discussions. 😊
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AvinashUmrao/AvinashUmrao/output/snake.svg" alt="Snake animation" />
-</div>
