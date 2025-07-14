@@ -65,5 +65,5 @@ Feel free to explore my repositories and reach out to me for collaborations or d
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AvinashUmrao/AvinashUmrao/output/snake.svg" alt="Snake animation" />
 </div>
