@@ -43,6 +43,7 @@ Always eager to learn and grow, I'm actively exploring new tools, frameworks, an
 ## 🚀 Highlight Projects
 
 - 🏨 [**SafarNest**](https://github.com/AvinashUmrao/SafarNest) | [**Live Demo**](https://safarnest-8im9.onrender.com)
+  
   Full-stack Airbnb clone with listings, bookings, auth, and Mapbox integration.
   
 - 📝 [**PlacementDex**](https://github.com/AvinashUmrao/PlacementDex)  
