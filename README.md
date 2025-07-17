@@ -40,18 +40,16 @@ Always eager to learn and grow, I'm actively exploring new tools, frameworks, an
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🚀 Highlight Projects
+### 🚀 Highlight Projects
 
-- 🏨 [**SafarNest**](https://github.com/AvinashUmrao/SafarNest) | [**Live Demo**](https://safarnest-8im9.onrender.com)
-  
-  Full-stack Airbnb clone with listings, bookings, auth, and Mapbox integration.
-  
-- 📝 [**PlacementDex**](https://github.com/AvinashUmrao/PlacementDex)  
-  Automates job offer extraction from emails and syncs details to Notion using LLMs.
+- 🏨 **[SafarNest](https://github.com/AvinashUmrao/SafarNest)** • [Live Demo](https://safarnest-8im9.onrender.com)  
+   Full-stack travel stay platform with user authentication, listings, bookings, and interactive Mapbox integration.
 
-- 🎯 [**Smart Metro**](https://github.com/AvinashUmrao/Smart-Metro)  
-  C++ simulation of metro systems using DSA: Dijkstra, Trie, Huffman, Knapsack & more.
+- 📝 **[PlacementDex](https://github.com/AvinashUmrao/PlacementDex)**  
+  Auto-extracts job offers from emails and syncs to Notion using LLMs.
 
+- 🎯 **[Smart Metro](https://github.com/AvinashUmrao/Smart-Metro)**  
+  DSA-heavy C++ simulation with Dijkstra, Trie, Huffman, and more.
 
 ## 📊 GitHub Stats:
 
